@@ -467,4 +467,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.history
+
 # End of https://www.toptal.com/developers/gitignore/api/goland+all,intellij+all,go,windows,linux,macos,python,pycharm+all
